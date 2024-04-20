@@ -1,0 +1,25 @@
+
+{
+  "name": "kk-hello-armadillo",
+  "version": "1.1.0",
+  "description": "armadillo says hello",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanhuoer/hello-worlds.git",
+    "directory": "hellos/hello-armadillo"
+  },
+  "main": "index.js",
+  "author": "hanhuoer",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cowsay": "1.5.0",
+    "kk-hello-ackbar": "^1.1.0", 
+    "kk-hello-aperture": "^1.1.0", 
+    "kk-hello-aperture_blank": "^1.1.0"
+  }
+}
+
+    

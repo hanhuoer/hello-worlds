@@ -1,0 +1,56 @@
+
+{
+  "name": "kk-hello-cower",
+  "version": "1.1.0",
+  "description": "cower says hello",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanhuoer/hello-worlds.git",
+    "directory": "hellos/hello-cower"
+  },
+  "main": "index.js",
+  "author": "hanhuoer",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cowsay": "1.5.0",
+    "kk-hello-ackbar": "^1.1.0", 
+    "kk-hello-aperture": "^1.1.0", 
+    "kk-hello-aperture_blank": "^1.1.0", 
+    "kk-hello-armadillo": "^1.1.0", 
+    "kk-hello-atat": "^1.1.0", 
+    "kk-hello-atom": "^1.1.0", 
+    "kk-hello-awesome_face": "^1.1.0", 
+    "kk-hello-banana": "^1.1.0", 
+    "kk-hello-bearface": "^1.1.0", 
+    "kk-hello-beavis_zen": "^1.1.0", 
+    "kk-hello-bees": "^1.1.0", 
+    "kk-hello-bill_the_cat": "^1.1.0", 
+    "kk-hello-biohazard": "^1.1.0", 
+    "kk-hello-bishop": "^1.1.0", 
+    "kk-hello-black_mesa": "^1.1.0", 
+    "kk-hello-bong": "^1.1.0", 
+    "kk-hello-box": "^1.1.0", 
+    "kk-hello-broken_heart": "^1.1.0", 
+    "kk-hello-bud_frogs": "^1.1.0", 
+    "kk-hello-bunny": "^1.1.0", 
+    "kk-hello-C3PO": "^1.1.0", 
+    "kk-hello-cake": "^1.1.0", 
+    "kk-hello-cake_with_candles": "^1.1.0", 
+    "kk-hello-cat": "^1.1.0", 
+    "kk-hello-cat2": "^1.1.0", 
+    "kk-hello-catfence": "^1.1.0", 
+    "kk-hello-charizardvice": "^1.1.0", 
+    "kk-hello-charlie": "^1.1.0", 
+    "kk-hello-cheese": "^1.1.0", 
+    "kk-hello-chessmen": "^1.1.0", 
+    "kk-hello-chito": "^1.1.0", 
+    "kk-hello-claw_arm": "^1.1.0", 
+    "kk-hello-clippy": "^1.1.0", 
+    "kk-hello-companion_cube": "^1.1.0"
+  }
+}
+
+    

@@ -1,0 +1,26 @@
+
+{
+  "name": "kk-hello-atat",
+  "version": "1.1.0",
+  "description": "atat says hello",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanhuoer/hello-worlds.git",
+    "directory": "hellos/hello-atat"
+  },
+  "main": "index.js",
+  "author": "hanhuoer",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cowsay": "1.5.0",
+    "kk-hello-ackbar": "^1.1.0", 
+    "kk-hello-aperture": "^1.1.0", 
+    "kk-hello-aperture_blank": "^1.1.0", 
+    "kk-hello-armadillo": "^1.1.0"
+  }
+}
+
+    

@@ -1,0 +1,24 @@
+
+{
+  "name": "kk-hello-aperture_blank",
+  "version": "1.1.0",
+  "description": "aperture_blank says hello",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanhuoer/hello-worlds.git",
+    "directory": "hellos/hello-aperture_blank"
+  },
+  "main": "index.js",
+  "author": "hanhuoer",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cowsay": "1.5.0",
+    "kk-hello-ackbar": "^1.1.0", 
+    "kk-hello-aperture": "^1.1.0"
+  }
+}
+
+    
